@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct AnimalApp: App {
+    
     var body: some Scene {
         WindowGroup {
             MainView()
